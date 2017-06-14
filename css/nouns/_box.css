@@ -1,0 +1,5 @@
+/* Box definition */
+.box {
+  border: 1px solid transparent;
+  padding: 15px;
+}

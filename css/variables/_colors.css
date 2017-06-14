@@ -1,0 +1,23 @@
+:root {
+
+  /* Error */
+  --error-color: hsla(0, 100%, 25%, 1);
+  --error-background-color: hsla(0, 100%, 50%, 1);
+  --error-border-color: currentColor;
+
+  /* Info */
+  --info-color: hsla(210, 100%, 25%, 1);
+  --info-background-color: hsla(210, 100%, 50%, 1);
+  --info-border-color: currentColor;
+
+  /* Success */
+  --success-color: hsla(90, 100%, 25%, 1);
+  --success-background-color: hsla(90, 100%, 50%, 1);
+  --success-border-color: currentColor;
+
+  /* Warn */
+  --warning-color: hsla(30, 100%, 25%, 1);
+  --warning-background-color: hsla(30, 100%, 50%, 1);
+  --warning-border-color: currentColor;
+
+}
